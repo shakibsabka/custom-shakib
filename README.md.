@@ -1,0 +1,15 @@
+# 🚀 Shakib Panel
+
+A free, open-source hosting panel built with PHP + Laravel.  
+Make your own hosting panel just like Pterodactyl, with full control.
+
+### 🌐 Demo
+Coming soon...
+
+### 🛠️ Install Instructions
+
+```bash
+sudo apt update && sudo apt install -y git
+git clone https://github.com/shakib112/shakib-panel.git
+cd shakib-panel
+sudo bash install.sh
